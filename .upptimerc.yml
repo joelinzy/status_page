@@ -6,7 +6,7 @@ sites:
   - name: Flintgate Frontend
     url: https://www.flintgate.com
   - name: Flintgate Backend Documentation
-    url: https://www.dogonmat.com
+    url: $FLINTGATE_BACKEND_DOCUMENTATION_SITE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
