@@ -22,7 +22,7 @@
     "url": "$FLINTGATE_BACKEND_DOCUMENTATION_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flintgate-backend-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "95.44%",
     "uptimeWeek": "99.35%",
