@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flintgate-backend-documentation",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "88.18%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.89%",
     "time": 2319,
     "timeDay": 28944,
     "timeWeek": 12497,
     "timeMonth": 4705,
     "timeYear": 2319,
     "dailyMinutesDown": {
-      "2021-12-15": 150
+      "2021-12-16": 16,
+      "2021-12-15": 154
     }
   }
 ]
