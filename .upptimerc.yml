@@ -5,7 +5,7 @@ repo: status_page # The name of this repository
 sites:
   - name: Flintgate Frontend
     url: https://www.flintgate.com
-  - name: Flintgate Backend Documentation
+  - name: Flintgate Backend
     url: $FLINTGATE_BACKEND_DOCUMENTATION_SITE
 
 status-website:
