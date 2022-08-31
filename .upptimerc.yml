@@ -7,8 +7,6 @@ sites:
     url: https://www.flintgate.com
   - name: Flintgate Backend Documentation
     url: $FLINTGATE_BACKEND_DOCUMENTATION_SITE
-    headers:
-      - "Authorization: Basic $FLINTGATE_BACKEND_DOCS_BASIC_AUTH"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
