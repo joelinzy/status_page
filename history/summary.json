@@ -4,7 +4,7 @@
     "url": "https://www.flintgate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flintgate.com.ico",
     "slug": "flintgate-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 259,
     "timeMonth": 429,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-08": 0
+    }
   },
   {
     "name": "Flintgate Backend",
