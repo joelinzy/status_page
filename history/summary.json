@@ -6,18 +6,16 @@
     "slug": "flintgate-frontend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 280,
-    "timeWeek": 270,
+    "timeDay": 322,
+    "timeWeek": 282,
     "timeMonth": 427,
     "timeYear": 382,
-    "dailyMinutesDown": {
-      "2022-10-08": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Flintgate Backend",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1129,
-    "timeDay": 1542,
-    "timeWeek": 1090,
-    "timeMonth": 1147,
-    "timeYear": 1129,
+    "time": 1130,
+    "timeDay": 1139,
+    "timeWeek": 1067,
+    "timeMonth": 1177,
+    "timeYear": 1130,
     "dailyMinutesDown": {}
   }
 ]
