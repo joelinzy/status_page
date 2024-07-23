@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 176,
-    "timeWeek": 224,
-    "timeMonth": 245,
-    "timeYear": 269,
+    "timeDay": 451,
+    "timeWeek": 260,
+    "timeMonth": 255,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "flintgate-backend",
     "status": "up",
-    "uptime": "88.63%",
+    "uptime": "88.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1268,
-    "timeDay": 2140,
-    "timeWeek": 2059,
-    "timeMonth": 1710,
-    "timeYear": 1259,
+    "time": 1272,
+    "timeDay": 2593,
+    "timeWeek": 2191,
+    "timeMonth": 1794,
+    "timeYear": 1265,
     "dailyMinutesDown": {}
   }
 ]
