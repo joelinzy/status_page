@@ -4,18 +4,20 @@
     "url": "https://www.flintgate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flintgate.com.ico",
     "slug": "flintgate-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 230,
-    "timeWeek": 253,
-    "timeMonth": 257,
+    "timeDay": 234,
+    "timeWeek": 251,
+    "timeMonth": 256,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "Flintgate Backend",
