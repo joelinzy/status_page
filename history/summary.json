@@ -6,9 +6,9 @@
     "slug": "flintgate-frontend",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 234,
@@ -16,7 +16,7 @@
     "timeMonth": 256,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 9
     }
   },
   {
@@ -24,17 +24,19 @@
     "url": "$FLINTGATE_BACKEND_DOCUMENTATION_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "flintgate-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "93.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1814,
-    "timeDay": 2227,
-    "timeWeek": 2047,
-    "timeMonth": 2038,
-    "timeYear": 1799,
-    "dailyMinutesDown": {}
+    "time": 1810,
+    "timeDay": 1259,
+    "timeWeek": 1827,
+    "timeMonth": 1981,
+    "timeYear": 1795,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   }
 ]
