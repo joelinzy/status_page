@@ -4,18 +4,19 @@
     "url": "https://www.flintgate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flintgate.com.ico",
     "slug": "flintgate-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 247,
+    "time": 248,
     "timeDay": 265,
     "timeWeek": 261,
     "timeMonth": 259,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2025-12-12": 1,
       "2025-10-20": 112
     }
   },
@@ -24,18 +25,19 @@
     "url": "$FLINTGATE_BACKEND_DOCUMENTATION_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "flintgate-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "93.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1802,
+    "time": 1805,
     "timeDay": 2744,
     "timeWeek": 1783,
     "timeMonth": 1468,
     "timeYear": 1759,
     "dailyMinutesDown": {
+      "2025-12-12": 0,
       "2025-10-20": 104
     }
   }
