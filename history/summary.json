@@ -4,9 +4,9 @@
     "url": "https://www.flintgate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flintgate.com.ico",
     "slug": "flintgate-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 258,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2026-02-10": 0,
       "2025-10-20": 112
     }
   },
